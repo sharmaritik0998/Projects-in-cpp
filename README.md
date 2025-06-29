@@ -42,7 +42,7 @@ Each folder/project typically includes:
 
 ## 💡 Sample Projects
 
-- 🏛️ Library Management System using DSA
+- ✈️ Travel Agency Management
 
 
 ---
